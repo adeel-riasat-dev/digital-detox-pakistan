@@ -50,5 +50,5 @@ Developed by Adeel Riasat
 
 For permissions, collaborations, or inquiries, contact:
 📧 adeelriasatofficial@gmail.com
-]
-🌐 Project Link: https://github.com/yourusername/digital-detox-pakistan
+
+🌐 Project Link: https://adeel-riasat-dev.github.io/digital-detox-pakistan/
